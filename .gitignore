@@ -1,0 +1,10 @@
+# Dữ liệu Chương 11 (75–127 MB/file, vượt giới hạn 100 MB của GitHub).
+# Tải tại https://www.kaggle.com/c/sf-crime/data rồi đặt vào Chapter11/.
+Chapter11/*.csv
+
+# File sinh ra khi chạy notebook / Spark
+.ipynb_checkpoints/
+__pycache__/
+spark-warehouse/
+metastore_db/
+derby.log
